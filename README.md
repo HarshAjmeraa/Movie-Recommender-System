@@ -1,6 +1,10 @@
-### Movie Recommender System Based
+### Movie Recommender System
 
-This is a movie recommender system built using Python, Dataset contains information of about 500k movies. The system utilizes movie metadata such as genres, keywords, cast, and crew to recommend similar movies based on text similarity. Below is a breakdown of the system's functionalities:
+This is a movie recommender system built using Python, Dataset contains information of over 45,000 movies. The system utilizes movie metadata such as genres, keywords, cast, and crew to recommend similar movies based on text similarity. Below is a breakdown of the system's functionalities:
+
+#### Dataset
+
+- It is available on Kaggle (https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
 #### Importing Dependencies
 
